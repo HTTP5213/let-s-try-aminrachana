@@ -4,15 +4,17 @@ function add(a, b) {
 
 function subtract(a, b) {
   // correct this code
-  return a + b;
+  return a - b;
 }
 
 function multiply(a, b) {
   // code goes here
+  return a * b;
 }
 
 function divide(a, b) {
   // code goes here
+  return a / b;
 }
 
 module.exports.add = add;
